@@ -1,0 +1,3 @@
+[submodule "legacy_build"]
+	path = legacy_build
+	url = https://github.com/jwgrenning/legacy-build.git
